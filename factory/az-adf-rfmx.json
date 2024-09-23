@@ -1,0 +1,9 @@
+{
+	"name": "az-adf-rfmx",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4a12bc9d-a912-4646-9b79-b38e1b07a94f",
+		"tenantId": "85aa9291-2e2b-4b5a-b69a-9a78c35e9c0a"
+	}
+}
